@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, It's me Jashwanth</h1>
 <h3 align="center">Computer Science Engineering Student</h3>
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="330" height="240" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🌱 I’m currently learning **React,Firebase,Data Structers and Algorithms and Full stack development.**
 
