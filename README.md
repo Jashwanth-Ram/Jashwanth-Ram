@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, It's me Jashwanth</h1>
 <h3 align="center">Computer Science Engineering Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jashwanth-ram&label=Profile%20views&color=142290&style=plastic" alt="jashwanth-ram" /> </p>
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🌱 I’m currently learning **React,Firebase,Data Structers and Algorithms and Full stack development.**
 
