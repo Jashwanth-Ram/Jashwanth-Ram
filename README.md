@@ -1,25 +1,78 @@
-<h1 align="center">Hey there 👋, It's me Jashwanth</h1>
-<h3 align="center">Computer Science Engineering Student</h3>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Jashwanth</h1>
+<p align="center">
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;=Aspiring+Software+Engineer;Aspiring+Full+Stack+Web+Developer&center=true&width=500&height=50"></a>
+</p>
 
-- 🌱 I’m currently learning **Data Structers and Algorithms and Full stack development.**
 
-- 👯 I’m looking to collaborate on **Full Stack Projects**
+<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🤝 I’m looking for help with **Backend technologies**
 
+- 🌱 I’m currently learning *Data Structers and Algorithms and Full stack development.*
+
+- 👯 I’m looking to collaborate on *Full Stack Projects*
+
+- 👨‍💻 Love to learn new technologies and to explore new sets of areas.
+
+- 🔭 I’m currently pursing  **B.E. CSE at R.M.K Engineering college**
+
+- 🤝 I’m looking for help with *Backend technologies*
+  
 - 👨‍💻 All of my projects are available at [https://github.com/Jashwanth-Ram](https://github.com/Jashwanth-Ram)
 
-- 📫 How to reach me **jashwanth1624@gmail.com**
-  
+- 📫 How to reach me *jashwanth1624@gmail.com*
+
 -  😄 Pronouns: Developer 
+  
+<br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left"><b>SKILLS</b></h3>
+
+- PROGRAMMING LANGUAGES
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
+  </a>
+</p>
+
+- DEVELOPMENT STACKS
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js" />
+  </a>
+</p>
+
+- DATABASES
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  </a>
+</p>
+
+- TOOLS/PLATFORMS
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,replit,docker,figma,idea,eclipse,vscode,visualstudio,webflow" />
+  </a>
+</p>
+<br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
-### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> 
 
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>  <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> 
+
+ <br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+
+
 
 
 
