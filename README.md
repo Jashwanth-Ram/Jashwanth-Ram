@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning *Data Structers and Algorithms and Full stack development.*
 
-- 👯 I’m looking to collaborate on *Full Stack Projects*
+- 🤝 I’m looking to collaborate on *Full Stack Projects*
 
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
 
