@@ -32,7 +32,7 @@
 - PROGRAMMING LANGUAGES
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,node,express" />
   </a>
 </p>
 
