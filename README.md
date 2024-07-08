@@ -32,14 +32,14 @@
 - PROGRAMMING LANGUAGES
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,node,express" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
   </a>
 </p>
 
 - DEVELOPMENT STACKS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,next,prisma" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,next,prisma,express,nodejs" />
   </a>
 </p>
 
