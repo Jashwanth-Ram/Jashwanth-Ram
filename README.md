@@ -14,8 +14,6 @@
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
 
 - 🔭 I’m currently pursing  **B.E. CSE at R.M.K Engineering college**
-
-- 🤝 I’m looking for help with *Backend technologies*
   
 - 👨‍💻 All of my projects are available at [https://github.com/Jashwanth-Ram](https://github.com/Jashwanth-Ram)
 
