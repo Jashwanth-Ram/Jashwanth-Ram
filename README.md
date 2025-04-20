@@ -51,7 +51,7 @@
 - TOOLS/PLATFORMS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,firebase,idea,eclipse,vscode,netlify" />
+    <img src="https://skillicons.dev/icons?i=git,github,firebase,idea,vscode,netlify" />
   </a>
 </p>
 <br/>
