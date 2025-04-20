@@ -37,14 +37,14 @@
 - DEVELOPMENT STACKS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,next,prisma,express,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,next,prisma,express,nodejs,firebase" />
   </a>
 </p>
 
 - DATABASES
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
   </a>
 </p>
 
