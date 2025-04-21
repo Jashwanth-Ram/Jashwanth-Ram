@@ -37,7 +37,7 @@
 - DEVELOPMENT STACKS
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,next,prisma,express,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,next,prisma,express,hibernate,nodejs" />
   </a>
 </p>
 
