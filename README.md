@@ -33,7 +33,7 @@
 </a>
 
 <a href="mailto:jashwanth1624@gmail.com">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="42" height="42" />
   </a>
 
 
