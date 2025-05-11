@@ -32,7 +32,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" margin-left="30" width="43" height="43" alt="LeetCode" />
 </a>
 
-<a href="mailto:jashwanth1624@gmail.com">
+<a href="https://www.linkedin.com/in/jashwanth-ram/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="43" height="42" />
   </a>
 
