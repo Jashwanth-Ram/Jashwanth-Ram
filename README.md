@@ -19,7 +19,7 @@
 
 - 📫 How to reach me *jashwanth1624@gmail.com*
 
--  😄 Pronouns: Developer
+- ⚡ Pronouns: Developer
   
 
 
