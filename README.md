@@ -29,9 +29,6 @@
   </a>
 
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" width="45" height="45" alt="LeetCode" />
-</a>
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
