@@ -25,15 +25,15 @@
 <h4>Connect : </h4>
 
 <a href="mailto:jashwanth1624@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="43" height="43" />
   </a>
 
 <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" margin-left="30" width="45" height="45" alt="LeetCode" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" margin-left="30" width="43" height="43" alt="LeetCode" />
 </a>
 
 <a href="mailto:jashwanth1624@gmail.com">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="42" height="42" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="43" height="42" />
   </a>
 
 
