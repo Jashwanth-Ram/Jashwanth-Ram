@@ -44,28 +44,28 @@
 
 <h3 align="left"><b>SKILLS</b></h3>
 
-- *PROGRAMMING LANGUAGES*
+- **PROGRAMMING LANGUAGES**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
   </a>
 </p>
 
-- *DEVELOPMENT STACKS*
+- **DEVELOPMENT STACKS**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,next,prisma,express,hibernate,nodejs" />
   </a>
 </p>
 
-- *DATABASES*
+- **DATABASES**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
   </a>
 </p>
 
-- *TOOLS/PLATFORMS*
+- **TOOLS/PLATFORMS**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,firebase,idea,vscode,netlify" />
