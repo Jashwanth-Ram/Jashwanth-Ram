@@ -29,7 +29,7 @@
   </a>
 
 <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" margin-left="60px" width="45" height="45" alt="LeetCode" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" margin-left="30" width="45" height="45" alt="LeetCode" />
 </a>
 
 
