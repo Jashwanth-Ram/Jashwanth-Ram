@@ -31,7 +31,7 @@
 <a href="https://www.leetcode.com/jashcodezz" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jashcodezz" height="30" width="40" /></a>
 
   <a href="mailto:jashwanth1624@gmail.com">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   
 </p>
