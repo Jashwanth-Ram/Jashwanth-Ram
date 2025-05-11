@@ -13,9 +13,7 @@
 
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas
   
--  🌱 I’m currently learning *Data Structers & Algorithms and Full stack development*
-    
-- 👨‍💻 All of my projects are available at [https://github.com/Jashwanth-Ram](https://github.com/Jashwanth-Ram)
+-  🌱 I’m currently learning *Data Structers & Algorithms and Full stack development*    
   
 - 🌐 Checkout my [Portfolio](https://jashwanth.vercel.app/)
 
