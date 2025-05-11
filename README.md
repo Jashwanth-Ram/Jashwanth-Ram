@@ -28,12 +28,12 @@
 
 <p align="left">
   
-<a href="https://linkedin.com/in/jashwanth-ram" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jashwanth-ram" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jashwanth-ram" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 
-<a href="https://www.leetcode.com/jashcodezz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jashcodezz" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jashcodezz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="30" width="40" />
   </a>
   
 </p>
