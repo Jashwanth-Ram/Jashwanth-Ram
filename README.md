@@ -7,19 +7,19 @@
 <img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 
-- 🌱 I’m currently learning *Data Structers and Algorithms and Full stack development.*
+- 🔭 I’m currently pursing  **B.E. CSE at R.M.K Engineering college**
 
-- 🤝 I’m looking to collaborate on *Full Stack Projects*
+- ✨ Highly passionate in domains of Full Stack Development and Software Engineering.
 
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas
-
-- 🔭 I’m currently pursing  **B.E. CSE at R.M.K Engineering college**
   
+-  🌱 I’m currently learning *Data Structers & Algorithms and Full stack development*
+    
 - 👨‍💻 All of my projects are available at [https://github.com/Jashwanth-Ram](https://github.com/Jashwanth-Ram)
 
 - 📫 How to reach me *jashwanth1624@gmail.com*
 
--  😄 Pronouns: Developer 
+-  😄 Pronouns: Developer
   
 <br>
 
