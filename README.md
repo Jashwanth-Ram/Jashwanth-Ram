@@ -81,9 +81,12 @@
 
 - **DATABASES**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-  </a>
+
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="6" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+
+
 </p>
 
 - **TOOLS/PLATFORMS**
