@@ -29,6 +29,11 @@
 <p align="left">
 <a href="https://linkedin.com/in/jashwanth-ram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jashwanth-ram" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jashcodezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jashcodezz" height="30" width="40" /></a>
+
+   <a href="mailto:jashwanth1624@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30" width="40" />
+  </a>
+  
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
