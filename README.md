@@ -59,7 +59,7 @@
 
 - **TOOLS/PLATFORMS**
 <p align="left">
-  <a href="https://skillicons.dev">
+ 
   
 
 
@@ -80,9 +80,6 @@
 
 
 
-
-    
-  </a>
 </p>
 <br/>
 
