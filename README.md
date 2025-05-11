@@ -64,6 +64,7 @@
 
 
 
+
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
@@ -76,7 +77,8 @@
   <img width="6" />
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="vercel logo"  />
+
 
 
 
