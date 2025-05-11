@@ -46,6 +46,8 @@
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="6" />
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
 
 
