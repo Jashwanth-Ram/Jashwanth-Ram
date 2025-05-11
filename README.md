@@ -15,7 +15,7 @@
   
 -  🌱 I’m currently learning *Data Structers & Algorithms and Full stack development*
     
-- 👨‍💻 All of my projects are available at [https://github.com/Jashwanth-Ram](Projects)
+- 👨‍💻 All of my projects are available at [https://github.com/Jashwanth-Ram](https://github.com/Jashwanth-Ram)
 
 - 📫 How to reach me *jashwanth1624@gmail.com*
 
