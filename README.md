@@ -23,7 +23,7 @@
   
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 
 
 <p align="left">
