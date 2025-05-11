@@ -22,7 +22,8 @@
 -  😄 Pronouns: Developer 
   
 <br>
-<h4>Connect : </h4>
+
+<h3 align="left">Connect with me:</h3>
 
 
 <p align="left">
