@@ -25,12 +25,12 @@
 <h4>Connect : </h4>
 
 
-
+<p align="left">
 
 <a href="https://www.linkedin.com/in/jashwanth-ram/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 
 <a href="https://leetcode.com/u/Jashcodezz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jash" height="30" width="40" /></a>
-
+</p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
