@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking to collaborate on *Full Stack Projects*
 
-- 👨‍💻 Love to learn new technologies and to explore new sets of areas.
+- 👨‍💻 Love to learn new technologies and to explore new sets of areas
 
 - 🔭 I’m currently pursing  **B.E. CSE at R.M.K Engineering college**
   
