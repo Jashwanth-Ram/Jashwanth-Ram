@@ -62,7 +62,7 @@
   <img width="6" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
   <img width="6" />
-  <img src="https://cdn.simpleicons.org/spring/61DAFB" height="40" alt="springboot logo"  />
+  <img src="https://cdn.simpleicons.org/spring" height="40" alt="springboot logo"  />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   <img width="6" />
